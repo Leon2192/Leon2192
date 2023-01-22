@@ -4,10 +4,8 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="">
-    <img
-      src="https://img.shields.io/twitter/follow/Leonard51150343?logo=twitter&style=for-the-badge
-" alt="Twitter Badge"
+  <a href="https://twitter.com/Leonard51150343">
+    <img src="https://img.shields.io/twitter/follow/Leonard51150343?logo=twitter&style=for-the-badge" alt="Twitter Badge"
     />
   </a>
 </div>
