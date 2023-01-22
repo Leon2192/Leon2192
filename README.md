@@ -7,7 +7,7 @@
   <a href="">
     <img
       src="https://img.shields.io/twitter/follow/Leonard51150343?logo=twitter&style=for-the-badge
-"
+" alt="Twitter Badge"
     />
   </a>
 </div>
