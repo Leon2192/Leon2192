@@ -5,7 +5,7 @@
 
 <div id="badges" align="center">
  <a href="">
-    <img src="/github/gist
+    <img src="https://img.shields.io/github/gist/stars/Leon2192?style=social
 " />
  </a>
 </div>
