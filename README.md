@@ -1,7 +1,8 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/thecodingspacerd-coding-coder-the-space-liRTgRfK9XljrH2EFt" />
+  <img src="https://media0.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif?cid=ecf05e473bxtdhmy0v468cu86kwegwhse0tupnrhdbkxedee&rid=giphy.gif&ct=g" />
 </div>
+
 
 
 <!--
