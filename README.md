@@ -6,12 +6,11 @@
 <div id="badges" align="center">
   <a href="">
     <img
-      src="https://img.shields.io/twitter/url?style=social
+      src="https://img.shields.io/twitter/url?style=social&url=Leonard51150343
 "
     />
   </a>
 </div>
-
 
 
 
