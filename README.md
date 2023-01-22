@@ -3,6 +3,13 @@
   <h1> Hi there 👋 I'm <a href="https://www.linkedin.com/in/leonardo-manuel-arrieta/">Leonardo Manuel Arrieta</a></h1>
 </div>
 
+<div id="badges" align="center">
+ <a href="">
+    <img src="/github/gist/stars
+" />
+ </a>
+</div>
+
 
 
 <!--
