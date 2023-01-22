@@ -6,7 +6,7 @@
 <div id="badges" align="center">
   <a href="">
     <img
-      src="https://img.shields.io/twitter/url?style=social&url=Leonard51150343
+      src="https://img.shields.io/twitter/follow/Leonard51150343?style=for-the-badge
 "
     />
   </a>
