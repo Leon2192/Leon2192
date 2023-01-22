@@ -2,9 +2,10 @@
   <img src="https://media0.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif?cid=ecf05e473bxtdhmy0v468cu86kwegwhse0tupnrhdbkxedee&rid=giphy.gif&ct=g" width="200" />
   <h1> Hi there 👋 I'm <a href="https://www.linkedin.com/in/leonardo-manuel-arrieta/">Leonardo Manuel Arrieta</a></h1>
 </div>
+
 <div id="badges" align="center">
  <a href="">
-    <img src="https://img.shields.io/github/gist/stars/Leon2192?logo=github&style=social
+    <img src="https://img.shields.io/github/gist/Leon2192?logo=github&style=social
 " />
  </a>
 </div>
