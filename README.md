@@ -4,10 +4,12 @@
 </div>
 
 <div id="badges" align="center">
- <a href="">
-    <img src="https://img.shields.io/github/gist/Leon2192?logo=github&style=social
-" />
- </a>
+  <a href="">
+    <img
+      src="https://img.shields.io/twitter/url?style=social
+"
+    />
+  </a>
 </div>
 
 
