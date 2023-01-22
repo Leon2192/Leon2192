@@ -5,7 +5,7 @@
 
 <div id="badges" align="center">
  <a href="">
-    <img src="/github/gist/stars
+    <img src="/github/gist
 " />
  </a>
 </div>
