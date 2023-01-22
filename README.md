@@ -1,4 +1,8 @@
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/thecodingspacerd-coding-coder-the-space-liRTgRfK9XljrH2EFt" />
+</div>;
+
 
 <!--
 **Leon2192/Leon2192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
