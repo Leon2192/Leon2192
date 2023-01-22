@@ -8,6 +8,10 @@
     <img src="https://img.shields.io/twitter/follow/Leonard51150343?logo=twitter&style=for-the-badge" alt="Twitter Badge"
     />
   </a>
+  <a href="[https://twitter.com/Leonard51150343](https://github.com/Leon2192)">
+    <img src="[https://img.shields.io/twitter/follow/Leonard51150343?logo=twitter&style=for-the-badge](https://img.shields.io/github/gist/last-commit/Leon2192?style=for-the-badge)" alt="Github Badge"
+    />
+  </a>
 </div>
 
 
