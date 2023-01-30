@@ -14,7 +14,7 @@
     />
   </a>
   <a href="[https://www/linkedin.com/in/leonardo-manuel-arrieta)">
-    <img src="https://img.shields.io/endpoint?label=Leonardo%20Manuel%20Arrieta&logo=linkedin" alt="Linkedin Badge"
+    <img src="https://img.shields.io/endpoint?label=Leonardo%20Manuel%20Arrieta&logo=linkedin&style=for-the-badge" alt="Linkedin Badge"
     />
   </a>
 </div>
