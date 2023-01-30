@@ -13,6 +13,10 @@
     <img src="https://img.shields.io/github/gist/last-commit/Leon2192?logo=github&style=for-the-badge" alt="Github Badge"
     />
   </a>
+  <a href="[https://www/linkedin.com/in/leonardo-manuel-arrieta)">
+    <img src="https://img.shields.io/github/gist/last-commit/Leon2192?logo=github&style=for-the-badge" alt="Github Badge"
+    />
+  </a>
 </div>
 
 ---
