@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif?cid=ecf05e473bxtdhmy0v468cu86kwegwhse0tupnrhdbkxedee&rid=giphy.gif&ct=g" width="200" />
   <h1> Hi there 👋 I'm <a href="https://www.linkedin.com/in/leonardo-manuel-arrieta/">Leonardo Manuel Arrieta</a></h1>
-  <h3>Developer</h3>
+  <h3>Developer from Argentina</h3>
 </div>
 
 <div id="badges" align="center">
