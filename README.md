@@ -14,7 +14,7 @@
     />
   </a>
   <a href="[https://www/linkedin.com/in/leonardo-manuel-arrieta)">
-    <img src="https://img.shields.io/endpoint?label=Leonardo%20Manuel%20Arrieta&logo=linkedin&style=for-the-badge" alt="Linkedin Badge"
+    <img src="https://img.shields.io/endpoint?label=Leonardo%20Manuel%20Arrieta&logo=linkedin&style=for-the-badge&url=leonardo-manuel-arrieta" alt="Linkedin Badge"
     />
   </a>
 </div>
@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working on Full Stack web development
 - 🌱 I’m currently learning Typescript & Angular js
-- 💬 Ask me about **Javascript, React js, Next Js Node js** 
+- 💬 Ask me about **Javascript, React js, Next Js Node js & Mysql** 
 - 📫 How to reach me: **leo.arrieta93@hotmail.com**
 
 
