@@ -10,7 +10,7 @@
     />
   </a>
   <a href="https://twitter.com/Leonard51150343](https://github.com/Leon2192">
-    <img src="[https://img.shields.io/github/last-commit/Leon2192/Leon2192](https://img.shields.io/github/last-commit/Leon2192/Leon2192?style=for-the-badge)" alt="Github Badge"
+    <img src="https://img.shields.io/github/last-commit/Leon2192/Leon2192?style=for-the-badge" alt="Github Badge"
     />
   </a>
   <a href="https://www/linkedin.com/in/leonardo-manuel-arrieta">
