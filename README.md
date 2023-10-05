@@ -24,8 +24,8 @@
 ### About me: 
 
 - 🔭 I’m currently working on Full Stack web development
-- 🌱 I’m currently learning Typescript & Angular js
-- 💬 Ask me about **Javascript, React js,Firebase, Next Js, Node js & Mysql** 
+- 🌱 I’m currently learning AWS
+- 💬 Ask me about **Javascript, React js, Next Js, Node js ** 
 - 📫 How to reach me: **leo.arrieta93@hotmail.com**
 
 
